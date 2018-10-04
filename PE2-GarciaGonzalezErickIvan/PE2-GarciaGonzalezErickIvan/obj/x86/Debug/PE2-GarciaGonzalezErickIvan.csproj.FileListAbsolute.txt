@@ -1,0 +1,5 @@
+/Users/AlanGarcia/Projects/PE2-GarciaGonzalezErickIvan/PE2-GarciaGonzalezErickIvan/obj/x86/Debug/PE2-GarciaGonzalezErickIvan.csproj.CoreCompileInputs.cache
+/Users/AlanGarcia/Projects/PE2-GarciaGonzalezErickIvan/PE2-GarciaGonzalezErickIvan/bin/Debug/PE2-GarciaGonzalezErickIvan.exe
+/Users/AlanGarcia/Projects/PE2-GarciaGonzalezErickIvan/PE2-GarciaGonzalezErickIvan/bin/Debug/PE2-GarciaGonzalezErickIvan.pdb
+/Users/AlanGarcia/Projects/PE2-GarciaGonzalezErickIvan/PE2-GarciaGonzalezErickIvan/obj/x86/Debug/PE2-GarciaGonzalezErickIvan.exe
+/Users/AlanGarcia/Projects/PE2-GarciaGonzalezErickIvan/PE2-GarciaGonzalezErickIvan/obj/x86/Debug/PE2-GarciaGonzalezErickIvan.pdb
